@@ -1,5 +1,7 @@
 # Covid-19---EDA-and-Time-Series-Forecasting
 An Exploratory data analysis through Visualization for India Covid-19 cases (till date 21st Nov 2020) is done. Also total cases and new death cases per day has been forecasted till March 2021.
+
+
 Data and Source - The data of Covid-19 cases for country India has been scrapped from the website - 'https://ourworldindata.org/coronavirus' till date 21st November 2020. The data contains various files listed below:
 1. Covid_India.csv - This file contains 'Confirmed','Deaths','Recovered','Active' cases for India states respectively.
 2. Case_perday,csv - This file consist of total cases (last day cases+new case) for 4 countries - India, US, Italy, China
